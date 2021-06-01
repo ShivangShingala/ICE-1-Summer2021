@@ -46,6 +46,7 @@ public class CardTrick
          else {
             System.out.println("Sorry! No match!");
          }
+luckyCard c2 = new Card(7, "Spades");
 
 
       }

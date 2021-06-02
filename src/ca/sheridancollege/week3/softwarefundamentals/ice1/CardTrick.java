@@ -51,10 +51,4 @@ luckyCard c2 = new Card(7, "Spades");
 
       }
    }
-
-
-
-
-
-   //Then report the result here
 }
